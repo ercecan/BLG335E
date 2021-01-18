@@ -1,2 +1,2 @@
 # BLG335E
-Projects of BLG 33E (Analysis of Algorithms I)
+Projects of BLG 335E (Analysis of Algorithms I)
