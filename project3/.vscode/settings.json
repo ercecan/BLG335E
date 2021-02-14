@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "__config": "cpp",
+        "istream": "cpp",
+        "iostream": "cpp",
+        "__hash_table": "cpp",
+        "deque": "cpp",
+        "functional": "cpp",
+        "iterator": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "ios": "cpp",
+        "iosfwd": "cpp",
+        "type_traits": "cpp"
+    }
+}
